@@ -1,1 +1,130 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+header{
+    background-color: #10873e;
+}
+
+div{
+    
+    padding: 20px;
+    background-color: #125615;
+    color: white;
+    width: 75px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 300;
+}
+
+nav{
+    background-color: #2b8c5f;
+    padding: 10px;
+}
+
+li:hover{
+    background-color: #16822c;
+    
+}
+
+.nav-link{
+  text-decoration: none;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  list-style: none;
+  border: 2px dotted black;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.a:hover{
+    background-color: #16822c;
+    border: 2px dotted #3a453c;
+}
+
+.img1{
+    width: 600px;
+    padding: 5px;
+}
+
+main{
+    background-color: #32a871;
+    padding: 5px;
+}
+
+h1{
+    letter-spacing: 10px;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+h2{
+    color: white;
+    border: 3px dotted #3b4740;
+    border-radius: 10px;
+}
+
+.mobs{
+    border: 3px dotted black;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.mobs:hover{
+    background-color: #23a65b;
+}
+
+.Items{
+    border: 3px dotted black;
+    border-radius: 6px;
+    margin: 15px;
+}
+
+.Items:hover{
+    background-color: #23a65b;
+}
+
+.img2{
+    width: 450px;
+    padding: 5px;
+}
+
+.img3{
+    width: 300px;
+    padding: 5px;
+}
+
+.end{
+    background-color: #1a8a3f;
+    border: 3px dotted black;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #32a871;
+    padding: 5px;
+}
+
+h3{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
 
